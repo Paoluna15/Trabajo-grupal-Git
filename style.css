@@ -18,3 +18,21 @@ body{
     text-align: center;
     background-color: beige;
 }
+
+.imagen{
+    width: 300px;
+    height: 350px;
+    margin-top: 20px;
+    margin-left: 50px;
+    display: block;
+    float: inline-start;
+   
+}
+.nombre{
+   font-size: 2cm;
+    text-align: left;
+    margin-top: 5px;
+    color: rgb(218, 31, 31);
+    font-family: fantasy;
+    text-shadow: -2px -2px 1px rgba(240, 217, 10, 0.979), 2px 2px 1px rgba(240, 217, 10, 0.979), -2px 2px 1px rgba(240, 217, 10, 0.979), 2px -2px 1px rgba(202, 171, 35, 0.904);
+}
